@@ -1,6 +1,5 @@
-# AML-Chatbot
 ---
-title: Enterprise Knowledge Assistant RAG
+title: AML Chatbot
 emoji: 📚
 colorFrom: blue
 colorTo: indigo

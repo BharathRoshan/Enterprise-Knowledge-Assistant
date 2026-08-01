@@ -1,5 +1,5 @@
 ---
-title: AML Chatbot
+title: Enterprise Knowledge Assistant
 emoji: 📚
 colorFrom: blue
 colorTo: indigo
